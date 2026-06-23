@@ -573,7 +573,7 @@ body.no-scroll {
 }
 
 /* Media Queries */
-@media(max-width:520px) {
+@media(max-width:640px) {
   body.no-scroll nav {
     background: transparent;
     border-bottom-color: transparent;
@@ -598,7 +598,7 @@ body.no-scroll {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 3rem;
+    gap: 1rem;
     z-index: 11;
     padding: 0;
   }
